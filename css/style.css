@@ -2,6 +2,8 @@
 font-family: 'Merriweather', serif;
 font-family: 'Source Sans Pro', sans-serif;*/
 
+
+
 .header_nav{
 
 	background:black;
@@ -16,11 +18,11 @@ font-family: 'Source Sans Pro', sans-serif;*/
 
 }
 
-/*.line_break{
+.line_break{
 	background-color: yellow;
 	height: 5px;
 	padding-top:20px;
-}*/
+}
 
 #slogan{
 	background:#C6C6C6;
