@@ -1,0 +1,30 @@
+.header_nav{
+
+	background:black;
+	height:120px;
+
+}
+#logo{
+	color:yellow;
+	font-size: 40px;
+	font-weight: bold;
+
+
+}
+
+/*.line_break{
+	background-color: yellow;
+	height: 5px;
+	padding-top:20px;
+}*/
+
+#slogan{
+	background:#C6C6C6;
+	height: 90px;
+	font-size:30px;
+	font-style: italic;
+	font-weight: 800;
+
+}
+
+
