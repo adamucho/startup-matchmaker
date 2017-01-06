@@ -7,9 +7,8 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 .header_nav{
-
-background:black;
-height:120px;
+	background:black;
+	height:120px;
 
 }
 #logo{
@@ -74,7 +73,7 @@ em{
 	display: block;
 	background-color: teal;
 	margin: auto;
-	height: 430px;
+	height: 490px;
 	width: auto;
 
 
@@ -147,9 +146,29 @@ em{
 
 
 
+#features header{
+	font-weight: 400;
+	font-family: 'Merriweather', serif;
+
+	font-size: 20px;
+}
+
+#features p{
+	line-height:28px;
+	font-size: 20px;
+	font-weight: 400;
+
+}
 
 
+#features{
 
+
+	text-align: left;
+	line-height:28px;
+	font-size: 20px;
+	padding: 15px 20px 70px 20px;
+}
 
 
 
